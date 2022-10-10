@@ -1269,7 +1269,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 100046, guid: f8abbdd178867d2419ba9feb6ff2cba0, type: 3}
   m_PrefabInstance: {fileID: 960161020}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1214773156
+--- !u!114 &1214773154
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1283,6 +1283,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   horizontalInput: 0
   speed: 10
+  xRange: 15
 --- !u!1001 &1227433961
 PrefabInstance:
   m_ObjectHideFlags: 0
