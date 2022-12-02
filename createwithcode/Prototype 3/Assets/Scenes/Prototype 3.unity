@@ -293,7 +293,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534669902}
   m_LocalRotation: {x: -0.016984576, y: -0, z: -0, w: 0.99985576}
-  m_LocalPosition: {x: -0.19, y: 1.68, z: -14.44}
+  m_LocalPosition: {x: -2, y: 1.68, z: -14.44}
   m_LocalScale: {x: 1, y: 1.2608, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -678,6 +678,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2466325137027033737, guid: 22ce9891aaa88e54fb5d6a16ced9dd32, type: 3}
+      propertyPath: m_Size.z
+      value: 6.343755
+      objectReference: {fileID: 0}
+    - target: {fileID: 2466325137027033737, guid: 22ce9891aaa88e54fb5d6a16ced9dd32, type: 3}
+      propertyPath: m_Center.z
+      value: -0.2635579
+      objectReference: {fileID: 0}
     - target: {fileID: 4027054392819481948, guid: 22ce9891aaa88e54fb5d6a16ced9dd32, type: 3}
       propertyPath: m_Name
       value: Obstacle
